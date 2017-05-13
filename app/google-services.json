@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "31017687416",
+    "firebase_url": "https://bolly-memes.firebaseio.com",
+    "project_id": "bolly-memes",
+    "storage_bucket": "bolly-memes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31017687416:android:0cf1bee2194c9662",
+        "android_client_info": {
+          "package_name": "dhruv.io.bollymeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31017687416-05j3qvhguuceevegb5mih6c3eunioece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW3WQG_tgJjA7ils8KoxiV6g4oskYzl8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
